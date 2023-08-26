@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\digos\\OneDrive\\Documentos\\C#\\Cadastro Series\\Cadastro Series\\Cadastro Series.csproj": {}
+    "C:\\Users\\digos\\OneDrive\\Documentos\\Meus Projetos\\GitHub\\Projetos em C#\\Cadastro Series\\cadastro-serie\\Cadastro Series.csproj": {}
   },
   "projects": {
-    "C:\\Users\\digos\\OneDrive\\Documentos\\C#\\Cadastro Series\\Cadastro Series\\Cadastro Series.csproj": {
+    "C:\\Users\\digos\\OneDrive\\Documentos\\Meus Projetos\\GitHub\\Projetos em C#\\Cadastro Series\\cadastro-serie\\Cadastro Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\digos\\OneDrive\\Documentos\\C#\\Cadastro Series\\Cadastro Series\\Cadastro Series.csproj",
+        "projectUniqueName": "C:\\Users\\digos\\OneDrive\\Documentos\\Meus Projetos\\GitHub\\Projetos em C#\\Cadastro Series\\cadastro-serie\\Cadastro Series.csproj",
         "projectName": "Cadastro Series",
-        "projectPath": "C:\\Users\\digos\\OneDrive\\Documentos\\C#\\Cadastro Series\\Cadastro Series\\Cadastro Series.csproj",
+        "projectPath": "C:\\Users\\digos\\OneDrive\\Documentos\\Meus Projetos\\GitHub\\Projetos em C#\\Cadastro Series\\cadastro-serie\\Cadastro Series.csproj",
         "packagesPath": "C:\\Users\\digos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\digos\\OneDrive\\Documentos\\C#\\Cadastro Series\\Cadastro Series\\obj\\",
+        "outputPath": "C:\\Users\\digos\\OneDrive\\Documentos\\Meus Projetos\\GitHub\\Projetos em C#\\Cadastro Series\\cadastro-serie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\digos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

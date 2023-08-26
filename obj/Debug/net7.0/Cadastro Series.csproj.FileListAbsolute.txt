@@ -13,3 +13,17 @@ C:\Users\digos\OneDrive\Documentos\C#\Cadastro Series\Cadastro Series\obj\Debug\
 C:\Users\digos\OneDrive\Documentos\C#\Cadastro Series\Cadastro Series\obj\Debug\net7.0\Cadastro Series.pdb
 C:\Users\digos\OneDrive\Documentos\C#\Cadastro Series\Cadastro Series\obj\Debug\net7.0\Cadastro Series.genruntimeconfig.cache
 C:\Users\digos\OneDrive\Documentos\C#\Cadastro Series\Cadastro Series\obj\Debug\net7.0\ref\Cadastro Series.dll
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Cadastro Series\cadastro-serie\bin\Debug\net7.0\Cadastro Series.exe
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Cadastro Series\cadastro-serie\bin\Debug\net7.0\Cadastro Series.deps.json
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Cadastro Series\cadastro-serie\bin\Debug\net7.0\Cadastro Series.runtimeconfig.json
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Cadastro Series\cadastro-serie\bin\Debug\net7.0\Cadastro Series.dll
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Cadastro Series\cadastro-serie\bin\Debug\net7.0\Cadastro Series.pdb
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Cadastro Series\cadastro-serie\obj\Debug\net7.0\Cadastro Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Cadastro Series\cadastro-serie\obj\Debug\net7.0\Cadastro Series.AssemblyInfoInputs.cache
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Cadastro Series\cadastro-serie\obj\Debug\net7.0\Cadastro Series.AssemblyInfo.cs
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Cadastro Series\cadastro-serie\obj\Debug\net7.0\Cadastro Series.csproj.CoreCompileInputs.cache
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Cadastro Series\cadastro-serie\obj\Debug\net7.0\Cadastro Series.dll
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Cadastro Series\cadastro-serie\obj\Debug\net7.0\refint\Cadastro Series.dll
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Cadastro Series\cadastro-serie\obj\Debug\net7.0\Cadastro Series.pdb
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Cadastro Series\cadastro-serie\obj\Debug\net7.0\Cadastro Series.genruntimeconfig.cache
+C:\Users\digos\OneDrive\Documentos\Meus Projetos\GitHub\Projetos em C#\Cadastro Series\cadastro-serie\obj\Debug\net7.0\ref\Cadastro Series.dll

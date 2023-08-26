@@ -4,10 +4,11 @@ namespace Cadastro_Series
 {
     class Program
     {
+        
         static SerieRepositorio repositorio = new SerieRepositorio();
         static void Main(string[] args)
         {
-
+            Console.Title = ("Gerenciador de Séries");
             string opcaoUsuario = ObterOpcaoUsuario();
             
             while (opcaoUsuario.ToUpperInvariant() != "X")
@@ -60,8 +61,10 @@ namespace Cadastro_Series
         
             foreach(var serie in lista) 
             { 
-            
-                Console.WriteLine($"#ID {serie.RetornaId()}: - {serie.RetornaTitulo()}");
+                
+                var excluido = serie.RetornaExcluido();
+
+                Console.WriteLine($"#ID {serie.RetornaId()}: - {serie.RetornaTitulo()} - {(excluido ? "*Excluído*" : "")}");
 
             }
         }

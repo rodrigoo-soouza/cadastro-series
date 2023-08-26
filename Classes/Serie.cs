@@ -40,6 +40,7 @@ namespace Cadastro_Series
 
         public int RetornaId() => Id;
 
+        public bool RetornaExcluido() => Excluido;
         public void Excluir() => Excluido = true;
     }
 
